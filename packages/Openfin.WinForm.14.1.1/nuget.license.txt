@@ -1,0 +1,1 @@
+Usage requires an "OpenFin Enterprise License" which you can learn about here (https://openfin.co/licensing/).
